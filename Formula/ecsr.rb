@@ -5,6 +5,6 @@ class Ecsr < Formula
   sha256 "ac69b44971dfdbbf9c6abcc6930bc1b8f8d2683fd63bf0958f6b96ce4bc0d30c"
 
   def install
-    bin.install "escr"
+    # bin.install "escr"
   end
 end
