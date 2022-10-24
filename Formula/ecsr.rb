@@ -6,6 +6,6 @@ class Ecsr < Formula
   version "0.1.0"
 
   def install
-    bin.install "escr"
+    bin.install "ecsr"
   end
 end
